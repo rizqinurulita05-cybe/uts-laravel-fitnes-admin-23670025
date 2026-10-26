@@ -1,0 +1,7 @@
+<!-- BEGIN #footer -->
+<div id="footer" class="footer bg-dark text-white py-4 mt-5">
+    <div class="container text-center">
+        <p class="mb-0">&copy; 2026 Fitness Website. All rights reserved.</p>
+    </div>
+</div>
+<!-- END #footer -->
